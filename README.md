@@ -42,7 +42,7 @@ A simple task manager app built using React and Redux.
 5. Open browser and go to url: http://localhost:3000. You can see the app running now.
 
 ## Useful Links
-- Github Repo: https://github.com/aayush301/Redux-task-manager
+- Github Repo: https://github.com/nishamalik06/Task-Manager
 - Nodejs download: https://nodejs.org/
 - VS Code download: https://code.visualstudio.com/
 - Tutorials: https://www.w3schools.com/
