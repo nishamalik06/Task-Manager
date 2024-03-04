@@ -55,5 +55,4 @@ A simple task manager app built using React and Redux.
 - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 ## Contact
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: nishamalik0606@gmail.com
